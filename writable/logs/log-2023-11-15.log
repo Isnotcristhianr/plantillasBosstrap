@@ -1438,3 +1438,228 @@ Config\App::$baseURL is invalid.
 #21 {main}
 in SYSTEMPATH\HTTP\SiteURI.php on line 199.
  1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-15 23:40:42 --> Invalid file: "layoutAdmin/sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/sidebar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/sidebar', [], true)
+ 3 APPPATH\Controllers\Home.php(17): view('layoutAdmin/sidebar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:40:52 --> Invalid file: "layoutAdmin/sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/sidebar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/sidebar', [], true)
+ 3 APPPATH\Controllers\Home.php(17): view('layoutAdmin/sidebar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:40:53 --> Invalid file: "layoutAdmin/sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/sidebar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/sidebar', [], true)
+ 3 APPPATH\Controllers\Home.php(17): view('layoutAdmin/sidebar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:40:53 --> Invalid file: "layoutAdmin/sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/sidebar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/sidebar', [], true)
+ 3 APPPATH\Controllers\Home.php(17): view('layoutAdmin/sidebar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:40:54 --> Invalid file: "layoutAdmin/sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/sidebar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/sidebar', [], true)
+ 3 APPPATH\Controllers\Home.php(17): view('layoutAdmin/sidebar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:40:54 --> Invalid file: "layoutAdmin/sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/sidebar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/sidebar', [], true)
+ 3 APPPATH\Controllers\Home.php(17): view('layoutAdmin/sidebar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:40:54 --> Invalid file: "layoutAdmin/sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/sidebar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/sidebar', [], true)
+ 3 APPPATH\Controllers\Home.php(17): view('layoutAdmin/sidebar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:40:54 --> Invalid file: "layoutAdmin/sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/sidebar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/sidebar', [], true)
+ 3 APPPATH\Controllers\Home.php(17): view('layoutAdmin/sidebar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:01 --> Invalid file: "layoutAdmin/sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/sidebar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/sidebar', [], true)
+ 3 APPPATH\Controllers\Home.php(17): view('layoutAdmin/sidebar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:02 --> Invalid file: "layoutAdmin/sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/sidebar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/sidebar', [], true)
+ 3 APPPATH\Controllers\Home.php(17): view('layoutAdmin/sidebar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:02 --> Invalid file: "layoutAdmin/sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/sidebar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/sidebar', [], true)
+ 3 APPPATH\Controllers\Home.php(17): view('layoutAdmin/sidebar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:02 --> Invalid file: "layoutAdmin/sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/sidebar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/sidebar', [], true)
+ 3 APPPATH\Controllers\Home.php(17): view('layoutAdmin/sidebar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:03 --> Invalid file: "layoutAdmin/sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/sidebar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/sidebar', [], true)
+ 3 APPPATH\Controllers\Home.php(17): view('layoutAdmin/sidebar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:03 --> Invalid file: "layoutAdmin/sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/sidebar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/sidebar', [], true)
+ 3 APPPATH\Controllers\Home.php(17): view('layoutAdmin/sidebar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:03 --> Invalid file: "layoutAdmin/sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/sidebar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/sidebar', [], true)
+ 3 APPPATH\Controllers\Home.php(17): view('layoutAdmin/sidebar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:03 --> Invalid file: "layoutAdmin/sidebar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/sidebar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/sidebar', [], true)
+ 3 APPPATH\Controllers\Home.php(17): view('layoutAdmin/sidebar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:10 --> Invalid file: "layoutAdmin/topbar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/topbar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/topbar', [], true)
+ 3 APPPATH\Controllers\Home.php(19): view('layoutAdmin/topbar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:10 --> Invalid file: "layoutAdmin/topbar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/topbar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/topbar', [], true)
+ 3 APPPATH\Controllers\Home.php(19): view('layoutAdmin/topbar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:10 --> Invalid file: "layoutAdmin/topbar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/topbar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/topbar', [], true)
+ 3 APPPATH\Controllers\Home.php(19): view('layoutAdmin/topbar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:10 --> Invalid file: "layoutAdmin/topbar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/topbar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/topbar', [], true)
+ 3 APPPATH\Controllers\Home.php(19): view('layoutAdmin/topbar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:11 --> Invalid file: "layoutAdmin/topbar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/topbar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/topbar', [], true)
+ 3 APPPATH\Controllers\Home.php(19): view('layoutAdmin/topbar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:11 --> Invalid file: "layoutAdmin/topbar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/topbar.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/topbar', [], true)
+ 3 APPPATH\Controllers\Home.php(19): view('layoutAdmin/topbar')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:21 --> Invalid file: "layoutAdmin/content.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/content.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/content', [], true)
+ 3 APPPATH\Controllers\Home.php(21): view('layoutAdmin/content')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:22 --> Invalid file: "layoutAdmin/content.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/content.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/content', [], true)
+ 3 APPPATH\Controllers\Home.php(21): view('layoutAdmin/content')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-15 23:41:22 --> Invalid file: "layoutAdmin/content.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layoutAdmin/content.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layoutAdmin/content', [], true)
+ 3 APPPATH\Controllers\Home.php(21): view('layoutAdmin/content')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->Home()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
