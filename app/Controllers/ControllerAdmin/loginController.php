@@ -21,6 +21,17 @@ class loginController extends BaseController
 
     public function inicio(): string
     {
+
+        //capturar datos del formulario get
+        $email = $_GET['email'];
+        $password = $_GET['pass'];
+
+        //guardar
+        $resp = [
+            'email' => $email,
+            'password' => $password
+        ];
+
         //header
         return view('layoutAdmin/header')
             //sidebar
@@ -28,7 +39,7 @@ class loginController extends BaseController
             //topbar
             . view('layoutAdmin/topbar')
             //content
-            . view('layoutAdmin/content')
+            . view('layoutAdmin/content' . $resp)
             //footer
             . view('layoutAdmin/footer');
     }

@@ -19,10 +19,10 @@
                                     </div>
                                     <form class="user" action="<?php echo base_url().'index.php/admin' ?>" method="GET">
                                         <div class="form-group">
-                                            <input type="email" class="form-control form-control-user" id="exampleInputEmail" aria-describedby="emailHelp" placeholder="Enter Email Address...">
+                                            <input type="email" class="form-control form-control-user" id="exampleInputEmail" aria-describedby="emailHelp" placeholder="Enter Email Address..." name="email">
                                         </div>
                                         <div class="form-group">
-                                            <input type="password" class="form-control form-control-user" id="exampleInputPassword" placeholder="Password">
+                                            <input type="password" class="form-control form-control-user" id="exampleInputPassword" placeholder="Password" name="pass">
                                         </div>
                                         <div class="form-group">
                                             <div class="custom-control custom-checkbox small">

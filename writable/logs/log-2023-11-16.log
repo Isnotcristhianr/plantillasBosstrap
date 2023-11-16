@@ -16,3 +16,621 @@ in APPPATH\Controllers\ControllerAdmin\loginController.php on line 20.
  5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
  6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
  7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:09 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:09 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:14 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:36 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:36 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:37 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:37 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:37 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:37 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:37 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:37 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:38 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:38 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:38 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:38 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:38 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:54:41 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:55:05 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:55:05 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:55:05 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:55:06 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:55:06 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:55:06 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:55:06 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:55:06 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:55:08 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:56:05 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 41.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 41)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:57:58 --> Array callback must have exactly two elements
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:58:49 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:24 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:24 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:25 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:28 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:36 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:37 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:37 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:37 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:39 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:45 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:46 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:46 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:46 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:46 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:46 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:47 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:52 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 00:59:52 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:00:28 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:00:29 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:00:29 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:00:29 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:00:29 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:00:31 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:00:42 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:00:42 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:00:42 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:00:42 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:00:43 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:01:00 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:01:00 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:01:00 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:01:00 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:01:01 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:01:01 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:01:01 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:01:01 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:02:10 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:02:10 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:02:10 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:02:11 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:02:11 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:02:11 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:03:18 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:03:18 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:03:19 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:03:19 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:03:21 --> Array callback has to contain indices 0 and 1
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:03:59 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:04:00 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:04:00 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:04:00 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:04:00 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:04:00 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:04:03 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:04:23 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:04:24 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:04:24 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:04:24 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:04:24 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:04:24 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:05:48 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-16 01:05:51 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
