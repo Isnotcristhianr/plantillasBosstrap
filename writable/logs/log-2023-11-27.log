@@ -1,0 +1,21 @@
+CRITICAL - 2023-11-27 21:05:14 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-27 21:06:52 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-27 21:06:55 --> Array to string conversion
+in APPPATH\Controllers\ControllerAdmin\loginController.php on line 42.
+ 1 APPPATH\Controllers\ControllerAdmin\loginController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\enclaseRecalde\\app\\Controllers\\ControllerAdmin\\loginController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControllerAdmin\loginController->inicio()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControllerAdmin\loginController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

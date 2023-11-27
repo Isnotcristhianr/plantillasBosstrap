@@ -23,11 +23,11 @@ class loginController extends BaseController
     {
 
         //capturar datos del formulario get
-        $email = $_GET['email'];
-        $password = $_GET['pass'];
+        $email = $this->request->getVar('email');
+        $password = $this->request->getVar('pass');
 
         //guardar
-        $resp = [
+        $data = [
             'email' => $email,
             'password' => $password
         ];
@@ -39,7 +39,7 @@ class loginController extends BaseController
             //topbar
             . view('layoutAdmin/topbar')
             //content
-            . view('layoutAdmin/content' . $resp)
+            . view('layoutAdmin/content' , $data)
             //footer
             . view('layoutAdmin/footer');
     }
