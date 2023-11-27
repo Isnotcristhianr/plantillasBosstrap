@@ -37,7 +37,7 @@ class loginController extends BaseController
             //sidebar
             . view('layoutAdmin/sidebar')
             //topbar
-            . view('layoutAdmin/topbar')
+            . view('layoutAdmin/topbar', $data)
             //content
             . view('layoutAdmin/content' , $data)
             //footer
